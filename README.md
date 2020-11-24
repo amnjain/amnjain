@@ -13,7 +13,7 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 
 ### I am Aman Jain
 - :heart: A Systems Enginner 
