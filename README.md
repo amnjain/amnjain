@@ -16,7 +16,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 
 ### I am Aman Jain
-- :heart: A Systems Enginner 
+- :heart: Software Enginner 
 - 🌱 Currently learning AEM - a Web CMS
 - 👯 I’m looking to collaborate on open source projects.
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but   the entire system crashed. This was done at MIT.**
