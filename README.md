@@ -17,7 +17,7 @@
 
 ### I am Aman Jain
 - :heart: Software Enginner 
-- 🌱 Currently learning AEM - a Web CMS
+- 🌱 Currently working on AEM - a Web CMS from Adobe.
 - 👯 I’m looking to collaborate on open source projects.
 - ⚡ Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but   the entire system crashed. This was done at MIT.**
 
